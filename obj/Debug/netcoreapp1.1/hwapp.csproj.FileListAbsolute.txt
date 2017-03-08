@@ -1,0 +1,8 @@
+/home/user/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/home/user/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/home/user/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/home/user/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/home/user/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/home/user/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/home/user/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/home/user/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
